@@ -36,7 +36,7 @@ The following images show the portfolio's apperance and functionality:
 
 ![Portfolio Demo](./Assets/Images/Portfolio.png)
 
-![Contact Demo](./Assets/Images/Portfolio.png)
+![Contact Demo](./Assets/Images/Contact.png)
 
 ![About Mobile Demo](./Assets/Images/About-Mobile.png)
 
@@ -49,14 +49,16 @@ The following images show the portfolio's apperance and functionality:
 
 ## Link to Webiste
 
-[Responsive Portfolio](https://e-burton.github.io/Responsive-Portfolio-CCC-Bootstrap/)
+* [Responsive Portfolio](https://e-burton.github.io/Responsive-Portfolio-CCC-Bootstrap/)
 
 ## Additional Resources
 
+* <a href="https://github.com/understrap/understrap/issues/525" target="_blank">Sticky Footer<a/>
 * [Sticky Footer](https://github.com/understrap/understrap/issues/525)
 * [Making Things Full Page](https://github.com/alvarotrigo/fullPage.js/issues/854#:~:text=100vw%20means%20100%25%20of%20the,when%20doing%20full%20screen%20slides%E2%80%A6)
-* [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [How To: Social Media Buttons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
 * [Centering iframe in Bootstrap](https://stackoverflow.com/questions/25560954/how-do-i-center-youtube-video-iframe-in-twitter-bootstrap-3)
 * [How To: Position Text Over an Image](https://www.w3schools.com/howto/howto_css_image_text.asp)
 * [How to Capture Full Page Screenshots](https://helpdeskgeek.com/how-to/how-to-capture-full-page-screenshots-in-chrome-firefox/)
+
