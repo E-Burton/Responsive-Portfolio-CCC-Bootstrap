@@ -53,8 +53,7 @@ The following images show the portfolio's apperance and functionality:
 
 ## Additional Resources
 
-* <a href="https://github.com/understrap/understrap/issues/525" target="_blank">Sticky Footer<a/>
-* [Sticky Footer](https://github.com/understrap/understrap/issues/525)
+* [Sticky Footer](https://github.com/understrap/understrap/issues/525){target=_blank}
 * [Making Things Full Page](https://github.com/alvarotrigo/fullPage.js/issues/854#:~:text=100vw%20means%20100%25%20of%20the,when%20doing%20full%20screen%20slides%E2%80%A6)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [How To: Social Media Buttons](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
