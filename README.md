@@ -1,4 +1,4 @@
-# Responsive-Portfolio-CCC-Bootstrap
+# Basic Responsive Portfolio with CSS & Bootstrap
 
 ## Objective
 
